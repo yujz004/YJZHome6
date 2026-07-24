@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CNET\\code\\VisionSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|d:\\cnet\\code\\visionsort\\visionsort_client\\viewmodels\\statisticsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|solutionrelative:visionsort_client\\viewmodels\\statisticsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|d:\\cnet\\code\\visionsort\\visionsort_client\\views\\statisticswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|solutionrelative:visionsort_client\\views\\statisticswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|d:\\cnet\\code\\visionsort\\visionsort_client\\views\\statisticswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|solutionrelative:visionsort_client\\views\\statisticswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|d:\\cnet\\code\\visionsort\\visionsort_client\\views\\historywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|solutionrelative:visionsort_client\\views\\historywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|d:\\cnet\\code\\visionsort\\visionsort_client\\views\\historywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|solutionrelative:visionsort_client\\views\\historywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|d:\\cnet\\code\\visionsort\\visionsort_client\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|solutionrelative:visionsort_client\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|d:\\cnet\\code\\visionsort\\visionsort_client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|solutionrelative:visionsort_client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|d:\\cnet\\code\\visionsort\\visionsort_client\\services\\tcpcommunicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|solutionrelative:visionsort_client\\services\\tcpcommunicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|d:\\cnet\\code\\visionsort\\visionsort_client\\services\\icommunicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|solutionrelative:visionsort_client\\services\\icommunicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|d:\\cnet\\code\\visionsort\\visionsort_client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|solutionrelative:visionsort_client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|d:\\cnet\\code\\visionsort\\visionsort_client\\views\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|solutionrelative:visionsort_client\\views\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|d:\\cnet\\code\\visionsort\\visionsort_client\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|solutionrelative:visionsort_client\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|d:\\cnet\\code\\visionsort\\visionsort_client\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|solutionrelative:visionsort_client\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|d:\\cnet\\code\\visionsort\\visionsort_client\\viewmodels\\historyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|solutionrelative:visionsort_client\\viewmodels\\historyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|d:\\cnet\\code\\visionsort\\visionsort_client\\services\\sqldataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|solutionrelative:visionsort_client\\services\\sqldataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|d:\\cnet\\code\\visionsort\\visionsort_client\\services\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|solutionrelative:visionsort_client\\services\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|d:\\cnet\\code\\visionsort\\visionsort_client\\models\\inspectionrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|solutionrelative:visionsort_client\\models\\inspectionrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE85972-C601-3E31-0F23-6F886044FA5A}|\u89E3\u51B3\u65B9\u6848\u9879{FCE85972-C601-3E31-0F23-6F886044FA5A}|D:\\CNET\\code\\VisionSort\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCE85972-C601-3E31-0F23-6F886044FA5A}|\u89E3\u51B3\u65B9\u6848\u9879{FCE85972-C601-3E31-0F23-6F886044FA5A}|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|d:\\cnet\\code\\visionsort\\visionsort_client\\services\\cameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|solutionrelative:visionsort_client\\services\\cameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|d:\\cnet\\code\\visionsort\\visionsort_client\\services\\icameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|solutionrelative:visionsort_client\\services\\icameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|d:\\cnet\\code\\visionsort\\visionsort_client\\models\\detectionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|solutionrelative:visionsort_client\\models\\detectionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|d:\\cnet\\code\\visionsort\\visionsort_client\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|solutionrelative:visionsort_client\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|d:\\cnet\\code\\visionsort\\visionsort_client\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7216EBD-74B4-9732-53F6-8BD257DD0C1E}|VisionSort_Client\\VisionSort_Client.csproj|solutionrelative:visionsort_client\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatisticsViewModel.cs",
+              "DocumentMoniker": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\ViewModels\\StatisticsViewModel.cs",
+              "RelativeDocumentMoniker": "VisionSort_Client\\ViewModels\\StatisticsViewModel.cs",
+              "ToolTip": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\ViewModels\\StatisticsViewModel.cs",
+              "RelativeToolTip": "VisionSort_Client\\ViewModels\\StatisticsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T03:40:52.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatisticsWindow.xaml.cs",
+              "DocumentMoniker": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Views\\StatisticsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "VisionSort_Client\\Views\\StatisticsWindow.xaml.cs",
+              "ToolTip": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Views\\StatisticsWindow.xaml.cs",
+              "RelativeToolTip": "VisionSort_Client\\Views\\StatisticsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T03:12:32.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatisticsWindow.xaml",
+              "DocumentMoniker": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Views\\StatisticsWindow.xaml",
+              "RelativeDocumentMoniker": "VisionSort_Client\\Views\\StatisticsWindow.xaml",
+              "ToolTip": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Views\\StatisticsWindow.xaml",
+              "RelativeToolTip": "VisionSort_Client\\Views\\StatisticsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-07-24T03:09:17.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HistoryWindow.xaml",
+              "DocumentMoniker": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Views\\HistoryWindow.xaml",
+              "RelativeDocumentMoniker": "VisionSort_Client\\Views\\HistoryWindow.xaml",
+              "ToolTip": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Views\\HistoryWindow.xaml",
+              "RelativeToolTip": "VisionSort_Client\\Views\\HistoryWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-07-21T02:11:39.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HistoryWindow.xaml.cs",
+              "DocumentMoniker": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Views\\HistoryWindow.xaml.cs",
+              "RelativeDocumentMoniker": "VisionSort_Client\\Views\\HistoryWindow.xaml.cs",
+              "ToolTip": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Views\\HistoryWindow.xaml.cs",
+              "RelativeToolTip": "VisionSort_Client\\Views\\HistoryWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T02:26:00.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "VisionSort_Client\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "VisionSort_Client\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAswPUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T03:20:30.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "VisionSort_Client\\MainWindow.xaml",
+              "ToolTip": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\MainWindow.xaml",
+              "RelativeToolTip": "VisionSort_Client\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-07-11T02:40:58.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TcpCommunicationService.cs",
+              "DocumentMoniker": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Services\\TcpCommunicationService.cs",
+              "RelativeDocumentMoniker": "VisionSort_Client\\Services\\TcpCommunicationService.cs",
+              "ToolTip": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Services\\TcpCommunicationService.cs",
+              "RelativeToolTip": "VisionSort_Client\\Services\\TcpCommunicationService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwCkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T03:03:29.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "VisionSort_Client\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\MainWindow.xaml.cs",
+              "RelativeToolTip": "VisionSort_Client\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBPwD4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T02:40:55.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICommunicationService.cs",
+              "DocumentMoniker": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Services\\ICommunicationService.cs",
+              "RelativeDocumentMoniker": "VisionSort_Client\\Services\\ICommunicationService.cs",
+              "ToolTip": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Services\\ICommunicationService.cs",
+              "RelativeToolTip": "VisionSort_Client\\Services\\ICommunicationService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBPwA0AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T03:01:16.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Models\\AppSettings.cs",
+              "RelativeDocumentMoniker": "VisionSort_Client\\Models\\AppSettings.cs",
+              "ToolTip": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Models\\AppSettings.cs",
+              "RelativeToolTip": "VisionSort_Client\\Models\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T05:31:19.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SettingsService.cs",
+              "DocumentMoniker": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Services\\SettingsService.cs",
+              "RelativeDocumentMoniker": "VisionSort_Client\\Services\\SettingsService.cs",
+              "ToolTip": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Services\\SettingsService.cs",
+              "RelativeToolTip": "VisionSort_Client\\Services\\SettingsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T05:32:27.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SettingsWindow.xaml",
+              "DocumentMoniker": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Views\\SettingsWindow.xaml",
+              "RelativeDocumentMoniker": "VisionSort_Client\\Views\\SettingsWindow.xaml",
+              "ToolTip": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Views\\SettingsWindow.xaml",
+              "RelativeToolTip": "VisionSort_Client\\Views\\SettingsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-07-22T05:35:11.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HistoryViewModel.cs",
+              "DocumentMoniker": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\ViewModels\\HistoryViewModel.cs",
+              "RelativeDocumentMoniker": "VisionSort_Client\\ViewModels\\HistoryViewModel.cs",
+              "ToolTip": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\ViewModels\\HistoryViewModel.cs",
+              "RelativeToolTip": "VisionSort_Client\\ViewModels\\HistoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T02:17:06.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SqlDataService.cs",
+              "DocumentMoniker": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Services\\SqlDataService.cs",
+              "RelativeDocumentMoniker": "VisionSort_Client\\Services\\SqlDataService.cs",
+              "ToolTip": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Services\\SqlDataService.cs",
+              "RelativeToolTip": "VisionSort_Client\\Services\\SqlDataService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T02:00:50.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDataService.cs",
+              "DocumentMoniker": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Services\\IDataService.cs",
+              "RelativeDocumentMoniker": "VisionSort_Client\\Services\\IDataService.cs",
+              "ToolTip": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Services\\IDataService.cs",
+              "RelativeToolTip": "VisionSort_Client\\Services\\IDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T01:59:32.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InspectionRecord.cs",
+              "DocumentMoniker": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Models\\InspectionRecord.cs",
+              "RelativeDocumentMoniker": "VisionSort_Client\\Models\\InspectionRecord.cs",
+              "ToolTip": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Models\\InspectionRecord.cs",
+              "RelativeToolTip": "VisionSort_Client\\Models\\InspectionRecord.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA8wBIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T02:59:12.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICameraService.cs",
+              "DocumentMoniker": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Services\\ICameraService.cs",
+              "RelativeDocumentMoniker": "VisionSort_Client\\Services\\ICameraService.cs",
+              "ToolTip": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Services\\ICameraService.cs",
+              "RelativeToolTip": "VisionSort_Client\\Services\\ICameraService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T07:11:09.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CNET\\code\\VisionSort\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\CNET\\code\\VisionSort\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-11T02:56:35.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CameraService.cs",
+              "DocumentMoniker": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Services\\CameraService.cs",
+              "RelativeDocumentMoniker": "VisionSort_Client\\Services\\CameraService.cs",
+              "ToolTip": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Services\\CameraService.cs",
+              "RelativeToolTip": "VisionSort_Client\\Services\\CameraService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T07:12:37.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DetectionResult.cs",
+              "DocumentMoniker": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Models\\DetectionResult.cs",
+              "RelativeDocumentMoniker": "VisionSort_Client\\Models\\DetectionResult.cs",
+              "ToolTip": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Models\\DetectionResult.cs",
+              "RelativeToolTip": "VisionSort_Client\\Models\\DetectionResult.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA1wBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T02:58:23.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Helpers\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "VisionSort_Client\\Helpers\\RelayCommand.cs",
+              "ToolTip": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\Helpers\\RelayCommand.cs",
+              "RelativeToolTip": "VisionSort_Client\\Helpers\\RelayCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T02:52:30.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "VisionSort_Client\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "D:\\CNET\\code\\VisionSort\\VisionSort_Client\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "VisionSort_Client\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T02:51:03.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
